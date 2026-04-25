@@ -15,11 +15,6 @@ body {
     align-items: center;
     gap:1.5vmin;
 }
-main h1{
-    margin: 1rem;
-    padding: 1rem;
-}
-
 .game {
     height: 60vmin;
     width: 60vmin;
@@ -84,8 +79,6 @@ main h1{
 #msg{
     color: #ffffc7;
     font-size: 5vmin;
-    margin: 2rem;
-    padding: 2rem;
 }
 .msg-container{
     height: 30vmin;
